@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sevgililer Günü Notu</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #fff5f8;
+            padding: 20px;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #d6336c;
+        }
+        p {
+            font-size: 18px;
+            color: #333;
+        }
+        a {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 10px 15px;
+            background-color: #d6336c;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        a:hover {
+            background-color: #b52b5b;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Güzeller Güzeli Tuğba'ma</h1>
+        <p>Seni çok özledim, umarım bu ayrı geçirdiğimiz son Sevgililer Günü olur. Benim için çok kıymetlisin ve umarım bunun farkındasındır.</p>
+        <p>Günaydınım, ay ışığım, güzeller güzelim. Birlikte çok güzel bir ömür geçirmek için sabırsızlanıyorum.</p>
+        <p>Senden uzunca zamandır haber alamıyorum ama senin de benzer şeyler hissettiğini ummaktan başka pek bir şey gelmiyor elimden. Seni hasretle kucaklıyorum.</p>
+        <a href="https://www.youtube.com/watch?v=MRsF_H_6w48" target="_blank">Şarkıyı Dinle 🎶</a>
+    </div>
+</body>
+</html>
